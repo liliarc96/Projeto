@@ -1,3 +1,7 @@
+'''
+O arquivo pdf gerado deverá ser enviado por e-mail
+'''
+
 from funcoes import *
 
 comando = input('Deseja gerar um dicionário a partir de um arquivo?\n\n S/N\n\n')
