@@ -1,5 +1,5 @@
 '''
-O dicionário resultante da Parte 1 deverá ser usado para gerar um pdf
+2. O dicionário resultante da Parte 1 deverá ser usado para gerar um pdf
 '''
 
 from funcoes import *
@@ -17,3 +17,7 @@ if comando == 's' or comando == 'S':
     comando = input('\nDeseja gerar um PDF com o dicionário?\n\n S/N\n\n')
     if comando == 's' or comando == 'S':
         gerar_pdf(dicio)
+    else:
+        print('Fechando o programa.')
+else:
+    print('Fechando o programa.')
