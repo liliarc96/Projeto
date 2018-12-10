@@ -16,3 +16,5 @@ if comando == 's' or comando == 'S':
     dicio = gerar_dicionario(nome_arquivo)
     print('\nDicionário gerado:')
     print(dicio)
+else:
+    print('Fechando o programa.')
