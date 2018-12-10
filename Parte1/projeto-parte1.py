@@ -1,5 +1,5 @@
 '''
-Fazer uma análise no arquivo convidados.txt, verificando seu conteúdo, como as
+1. Fazer uma análise no arquivo convidados.txt, verificando seu conteúdo, como as
 informações estão separadas e organizadas. Em seguida, é necessário coletar todos os dados e
 organizar em um dicionário contendo apenas as seguintes informações telefone como chave e
 nome como valor. Deverá ser feita uma função que receba uma o caminho/nome do arquivo e
