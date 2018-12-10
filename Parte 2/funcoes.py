@@ -1,7 +1,3 @@
-'''
-O dicionário resultante da Parte1 deverá ser usado para gerar um pdf
-'''
-
 from reportlab.pdfgen import canvas
 
 def gerar_dicionario(txt):
